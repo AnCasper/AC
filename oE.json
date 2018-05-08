@@ -1,0 +1,12 @@
+{
+	"version": "1.0",
+	"type": "photo",
+	"width": 250,
+	"height": 250,
+	"title": "ACLogo",
+	"url": "https://www.ancasper.com/assets/images/ac-logo.png",
+	"author_name": "Craig A Stewart",
+	"author_url": "https://ancasper.com/",
+	"provider_name": "AnCasper",
+	"provider_url": "https://ancasper.com/"
+}
