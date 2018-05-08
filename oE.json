@@ -1,22 +1,20 @@
 {
       "author": {
-        "name": "Craig A Stewart",
-        "url": "https://ancasper.com/",
-        "icon_url": "https://www.ancasper.com/assets/images/ac-logo.png"
+            "name": "Craig A Stewart",
+            "url": "https://ancasper.com/",
+            "icon_url": "https://www.ancasper.com/assets/images/ac-logo.png"
       },
       "title": "AnCasper ¬ Web Design And Devlopment",
       "url": "https://www.ancasper.com/",
       "description": "**What is AnCasper? I am a freelance web developer & designer who specializes in HTML, CSS and JavaScript.**[hyperlink]https://www.ancasper.com/)",
       "color": [141, 199, 61, 1],
       "thumbnail": {
-        "url": "https://ancasper.com//assets/images/thumbnail.jpg"
+            "url": "https://ancasper.com//assets/images/thumbnail.jpg"
       },
       "image": {
-        "url": "https://ancasper.com//assets/images/thumbnail.jpg"
+            "url": "https://ancasper.com//assets/images/thumbnail.jpg"
       },
       "footer": {
-        "text": "Check It Out Now! :smirk:"
+            "text": "Check It Out Now! :smirk:"
       }
-    }
-  ]
 }
